@@ -34,7 +34,7 @@ with dataset:
     st.header('NYC taxi dataset')
     st.text('I found this dataset on https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page')
 
-    taxi_data = get_data('data/taxi_data.csv')
+    taxi_data = get_data('data/taxi_data1.csv')
     st.write(taxi_data.head())
 
     st.subheader('Pick-up location ID distribution on the NYC dataset')
