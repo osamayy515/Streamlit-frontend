@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "3878e973c487a37a501f6ebaa3632a7018a0ccef52d0c99ddf6e60f8a4ac734c"
+            "sha256": "3af504290aa211d63975f8dd84ad4fd79bf704b784c4295e6ec7f1ae2778101b"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -86,6 +86,12 @@
             ],
             "markers": "python_version >= '3.5'",
             "version": "==5.1.1"
+        },
+        "docopt": {
+            "hashes": [
+                "sha256:49b3a825280bd66b3aa83585ef59c4a8c82f2c8a522dbe754a8bc8d08c85c491"
+            ],
+            "version": "==0.6.2"
         },
         "entrypoints": {
             "hashes": [
@@ -336,6 +342,14 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==9.3.0"
+        },
+        "pipreqs": {
+            "hashes": [
+                "sha256:1510a91ae73ef6a8e2f24ffc8751132251cd61a01296d61538f37d1491841640",
+                "sha256:c793b4e147ac437871b3a962c5ce467e129c859ece5ba79aca83c20f4d9c3aef"
+            ],
+            "index": "pypi",
+            "version": "==0.4.11"
         },
         "protobuf": {
             "hashes": [
@@ -695,6 +709,13 @@
             ],
             "markers": "platform_system != 'Darwin'",
             "version": "==2.1.9"
+        },
+        "yarg": {
+            "hashes": [
+                "sha256:4f9cebdc00fac946c9bf2783d634e538a71c7d280a4d806d45fd4dc0ef441492",
+                "sha256:55695bf4d1e3e7f756496c36a69ba32c40d18f821e38f61d028f6049e5e15911"
+            ],
+            "version": "==0.1.9"
         },
         "zipp": {
             "hashes": [
